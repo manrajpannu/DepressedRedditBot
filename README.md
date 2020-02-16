@@ -13,7 +13,6 @@ I hold no liability for what you do with this script or what happens to you by u
 
 You will need to install Python's [PRAW](https://praw.readthedocs.org/en/) libraries first:
 
-    pip install tweepy
     pip install praw
     
 You will also need to create an app account on Reddit: [[instructions]](https://www.reddit.com/dev/api)
